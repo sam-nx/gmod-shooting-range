@@ -1,4 +1,4 @@
-# Sam Shooting Range
+# Sam Shooting Range V1.0
   >Addon de stand de tir
   
 ## Installation
