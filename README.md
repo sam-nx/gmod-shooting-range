@@ -5,7 +5,7 @@
   >Extraire l'addon dans le dossier **sam_shooting_range** "garrysmod/addons"
 
 ## Présentation
-  >Deux types de cibles:
+  >Deux types de cibles
   
     - Cible avec points:
     
@@ -29,7 +29,11 @@
 
   >Cible avec points:
   
+    https://imgur.com/caZOsJ2
   
   >Cible "Touché ou non"
   
+    https://imgur.com/4Eq7Q9y
+    
+    https://imgur.com/vS92Vfm
   
