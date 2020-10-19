@@ -77,10 +77,6 @@ function ENT:Draw()
             end
         end
 
-		-- surface.SetMaterial( Material "materials/weed.png")
-		-- surface.SetDrawColor(255,255,255,255)
-		-- surface.DrawTexturedRect( 440, 0, 150, 150 )
-
 	cam.End3D2D()
 
 end
